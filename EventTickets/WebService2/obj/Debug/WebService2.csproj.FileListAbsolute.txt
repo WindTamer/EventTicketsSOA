@@ -1,0 +1,16 @@
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\obj\Debug\WebService2.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\WebService2.dll.config
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\WebService2.dll
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\WebService2.pdb
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTicket.DataContracts.dll
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTicket.ServiceContracts.dll
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTickets.AppService.dll
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTickets.Model.dll
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTicket.DataContracts.pdb
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTicket.ServiceContracts.pdb
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTickets.AppService.pdb
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTickets.Model.pdb
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\obj\Debug\WebService2.dll
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\obj\Debug\WebService2.pdb
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTickets.Repository.dll
+c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTickets.Repository.pdb

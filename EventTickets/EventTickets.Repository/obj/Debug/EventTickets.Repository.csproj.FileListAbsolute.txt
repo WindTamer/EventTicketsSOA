@@ -1,0 +1,7 @@
+c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Repository\bin\Debug\EventTickets.Repository.dll
+c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Repository\bin\Debug\EventTickets.Repository.pdb
+c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Repository\bin\Debug\EventTickets.Model.dll
+c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Repository\bin\Debug\EventTickets.Model.pdb
+c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Repository\obj\Debug\EventTickets.Repository.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Repository\obj\Debug\EventTickets.Repository.dll
+c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Repository\obj\Debug\EventTickets.Repository.pdb

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Model\Event.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Model\TicketReservation.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Model\TicketPurchase.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Model\IEventRepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\EventTickets.AppService\Messages\PurchaseTicketResponse.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\EventTickets.AppService\Messages\ReservationTicketResponse.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\EventTicket.DataContracts\PurchaseTicketResponse.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\EventTicket.DataContracts\ReservationTicketResponse.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\WebService2\Web.config</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>WebService2</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\WebService2\WebTicketService.cs</string>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\WebService2\WebTicketService.svc</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\EventTickets.AppService\TicketService.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\alex\documents\visual studio 2013\Projects\EventTickets.Repository\EventRepository.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

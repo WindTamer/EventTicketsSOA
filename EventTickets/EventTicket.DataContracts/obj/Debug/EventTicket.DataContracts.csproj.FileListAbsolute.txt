@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2013\Projects\EventTicket.DataContracts\bin\Debug\EventTicket.DataContracts.dll
+c:\users\alex\documents\visual studio 2013\Projects\EventTicket.DataContracts\bin\Debug\EventTicket.DataContracts.pdb
+c:\users\alex\documents\visual studio 2013\Projects\EventTicket.DataContracts\obj\Debug\EventTicket.DataContracts.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\EventTicket.DataContracts\obj\Debug\EventTicket.DataContracts.dll
+c:\users\alex\documents\visual studio 2013\Projects\EventTicket.DataContracts\obj\Debug\EventTicket.DataContracts.pdb
