@@ -14,9 +14,12 @@ namespace EventTicket.DataContracts
         public string TicketId { get; set; }
 
         [DataMember]
-        public String EventId { get; set; }
+        public string EventId { get; set; }
 
         [DataMember]
         public int NoOfTickets { get; set; }
+
+        [DataMember]
+        public string ReservationId { get; set; }
     }
 }

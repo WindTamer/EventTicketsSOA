@@ -49,7 +49,8 @@ namespace EventTickets.AppService
             {
                 TicketId = reservation.Id.ToString(),
                 EventId = reservation.Event.Id.ToString(),
-                NoOfTickets = reservation.TicketQuantity
+                NoOfTickets = reservation.TicketQuantity,
+                ReservationId = reservation.Id
             };
         }
     }

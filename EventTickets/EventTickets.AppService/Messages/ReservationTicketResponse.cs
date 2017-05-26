@@ -11,5 +11,6 @@ namespace EventTickets.AppService.Messages
         public string TicketId { get; set; }
         public String EventId { get; set; }
         public int NoOfTickets { get; set; }
+        public Guid ReservationId { get; internal set; }
     }
 }
