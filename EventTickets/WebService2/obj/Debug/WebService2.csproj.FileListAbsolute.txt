@@ -14,3 +14,19 @@ c:\users\alex\documents\visual studio 2013\Projects\WebService2\obj\Debug\WebSer
 c:\users\alex\documents\visual studio 2013\Projects\WebService2\obj\Debug\WebService2.pdb
 c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTickets.Repository.dll
 c:\users\alex\documents\visual studio 2013\Projects\WebService2\bin\EventTickets.Repository.pdb
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\WebService2.dll.config
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\WebService2.dll
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\WebService2.pdb
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\EventTicket.DataContracts.dll
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\EventTicket.ServiceContracts.dll
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\EventTickets.AppService.dll
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\EventTickets.Model.dll
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\EventTickets.Repository.dll
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\EventTicket.DataContracts.pdb
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\EventTicket.ServiceContracts.pdb
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\EventTickets.AppService.pdb
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\EventTickets.Model.pdb
+C:\git\EventTicketsSOA\EventTickets\WebService2\bin\EventTickets.Repository.pdb
+C:\git\EventTicketsSOA\EventTickets\WebService2\obj\Debug\WebService2.csprojResolveAssemblyReference.cache
+C:\git\EventTicketsSOA\EventTickets\WebService2\obj\Debug\WebService2.dll
+C:\git\EventTicketsSOA\EventTickets\WebService2\obj\Debug\WebService2.pdb
